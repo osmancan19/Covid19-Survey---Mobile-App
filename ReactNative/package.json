@@ -1,0 +1,55 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.1.0",
+    "@react-native-community/datetimepicker": "2.4.0",
+    "@react-native-community/picker": "1.6.0",
+    "@types/webdriverio": "^5.0.0",
+    "appium-adb": "^8.6.2",
+    "expo": "~38.0.8",
+    "expo-font": "~8.2.1",
+    "expo-status-bar": "^1.0.2",
+    "jest": "^26.1.0",
+    "react": "~16.11.0",
+    "react-dom": "~16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-global-props": "^1.1.5",
+    "react-native-progress": "^4.1.2",
+    "react-native-web": "~0.11.7",
+    "react-router-native": "^5.2.0",
+    "recoil": "^0.0.10",
+    "wd": "^1.12.1",
+    "webdriverio": "^6.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "babel-preset-expo": "~8.1.0",
+    "faker": "^4.1.0"
+  },
+  "e2e": {
+    "devices": {
+      "ios-emulator": {
+        "platformName": "iOS",
+        "platformVersion": "13.6",
+        "deviceName": "iPhone 11",
+        "app": "/Users/berkininan/Desktop/Javascript/Project2/ios/project2.app",
+        "automationName": "XCUITest"
+      },
+      "android-emulator": {
+        "platformName": "Android",
+        "deviceName": "Galaxy S8+",
+        "platformVersion": "9",
+        "app": "/Users/berkininan/Desktop/Courses/Summer2020/CS458/Projects/Project2/Project2.apk",
+        "automationName": "UiAutomator2"
+      }
+    }
+  },
+  "private": true
+}

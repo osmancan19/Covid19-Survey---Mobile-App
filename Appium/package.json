@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "install": "mvn install",
+    "test:ios": "mvn test -DsuiteXmlFile=ios_test.xml -Dtestng.dtd.http=true",
+    "test:android": "mvn test -DsuiteXmlFile=android_test.xml -Dtestng.dtd.http=true"
+  }
+}

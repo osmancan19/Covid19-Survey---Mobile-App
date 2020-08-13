@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="921731ba-69d6-45c7-a67b-5f4680d65c87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Project2Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project2Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.apk" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/Assets.car" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/Assets.car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/Base.lproj/LaunchScreen.nib" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/Base.lproj/LaunchScreen.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/ComCs458Project2" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/ComCs458Project2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/GoogleMVFaceDetectorResources.bundle/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/GoogleMVFaceDetectorResources.bundle/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/project2.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/shell-app-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/shell-app-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Project2.app/shell-app.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Project2.app/shell-app.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AndroidTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AndroidTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IOSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IOSTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AndroidTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AndroidTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IOSTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/IOSTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/com.cs458.project2-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-07-27T17-12-11_194-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-07-27T17-12-11_194-jvmRun1.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-07-27T17-27-05_606-jvmRun1.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-07-27T17-35-36_968-jvmRun1.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Default Suite/Project2Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Default Suite/Project2Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-IOSTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/Project2Test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Default Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReactNative/.expo/packager-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ReactNative/.expo/packager-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReactNative/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ReactNative/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReactNative/pages/CityPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ReactNative/pages/CityPage.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1527208215">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="classpath" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="6" />
+          <entry key="json" value="1" />
+          <entry key="project" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Eclipse" value="2" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="6" />
+          <entry key="JSON" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="iml" value="7" />
+          <entry key="java" value="93" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="IDEA_MODULE" value="7" />
+          <entry key="JAVA" value="93" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IOSTest.java" />
+        <option value="$PROJECT_DIR$/Project2Test.iml" />
+        <option value="$PROJECT_DIR$/com.cs458.project2.iml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/AndroidTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.cs458.project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.cs458.project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.cs458.project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.cs458.project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597248406652" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.AndroidTest">
+    <configuration name="AndroidTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.cs458.project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.AndroidTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AndroidTest.shouldRememberPreviousValuesWhenTheUserReturns" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.cs458.project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.AndroidTest" />
+      <option name="METHOD_NAME" value="shouldRememberPreviousValuesWhenTheUserReturns" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOSTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.cs458.project2" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.IOSTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOSTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.cs458.project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.IOSTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOSTest.shouldShowFinishPageIfAllInputsAreValid" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.cs458.project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.IOSTest" />
+      <option name="METHOD_NAME" value="shouldShowFinishPageIfAllInputsAreValid" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test:ios" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:ios" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.test:ios" />
+      <item itemvalue="TestNG.IOSTest" />
+      <item itemvalue="TestNG.IOSTest.shouldShowFinishPageIfAllInputsAreValid" />
+      <item itemvalue="TestNG.AndroidTest" />
+      <item itemvalue="TestNG.AndroidTest.shouldRememberPreviousValuesWhenTheUserReturns" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AndroidTest" />
+        <item itemvalue="TestNG.AndroidTest.shouldRememberPreviousValuesWhenTheUserReturns" />
+        <item itemvalue="TestNG.IOSTest" />
+        <item itemvalue="TestNG.IOSTest.shouldShowFinishPageIfAllInputsAreValid" />
+        <item itemvalue="TestNG.IOSTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="921731ba-69d6-45c7-a67b-5f4680d65c87" name="Default Changelist" comment="" />
+      <created>1597223948179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597223948179</updated>
+      <workItem from="1597223951420" duration="942000" />
+      <workItem from="1597225189614" duration="1559000" />
+      <workItem from="1597237531321" duration="1426000" />
+      <workItem from="1597241388184" duration="3013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AndroidTest - 2020.08.12 at 17h 30m 12s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 17h 33m 03s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 17h 37m 06s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 18h 53m 00s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 18h 55m 32s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 19h 00m 37s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 19h 03m 37s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 19h 05m 09s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 19h 06m 01s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AndroidTest - 2020.08.12 at 19h 11m 02s.xml">
+      <configuration name="AndroidTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6940000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="1" width="1680" height="1050" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32985386" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.32985386" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32985386" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32985386" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ios_test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.cs458.project2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AndroidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="182" column="5" lean-forward="true" selection-start-line="182" selection-start-column="5" selection-end-line="182" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IOSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project2Test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com.cs458.project2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
